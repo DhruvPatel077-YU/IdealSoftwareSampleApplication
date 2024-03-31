@@ -10,7 +10,7 @@ public class Application {
 	public static void main(String[] args) {
 		ApplicationContext ctx = SpringApplication.run(Application.class, args);
 
-		System.out.println("Welcome to your Sample SpringBoot app");
+		System.out.println("This is sample application for Ideal Software company.");
 
 	}
 
